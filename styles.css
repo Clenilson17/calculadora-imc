@@ -153,12 +153,12 @@ footer{
         font-size: 20px;
     }
     #button{
-    display: flex;
+    
     align-items: center;
-    flex-direction: column;
     position: relative;
     top: 25%;
-    margin-left: 4px ;
+    left: 80%;
+    
 }
 }
 
