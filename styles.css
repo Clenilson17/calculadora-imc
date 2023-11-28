@@ -101,7 +101,7 @@ footer{
     display: flex;
     align-items: center;
     position: relative;
-    left: 15%;
+    left: 10%;
     color:#1418CC;
     bottom: 15%;
     font-size: 40px;
@@ -116,11 +116,13 @@ footer{
         left: 60%;
     }
     .input{
+        position: relative;
+        top: 30%;
         font-size: 25px;
         width: 50px;
         height: 70px;
         color:#1F002B ;
-        margin-left: 10%;
+        margin-left: 10px;
         column-gap: 0;
         justify-content: center;
     }
@@ -129,7 +131,7 @@ footer{
         justify-content: space-between;
         align-items: center;
         position: relative;
-        top:10%;
+        top:25%;
         right: 10%;
         
         
@@ -144,12 +146,16 @@ footer{
         height: 30px;
         border-radius: 10px;
         position: relative;
-        top: 35px;
+        top: 50%;
         left: 5%;
         padding-left: 70px;
         padding-top: 10px;
         font-size: 20px;
     }
+    #button{
+    position: relative;
+    top: 25%;
+}
 }
 
 
