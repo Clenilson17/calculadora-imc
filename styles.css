@@ -104,7 +104,7 @@ footer{
     left: 18%;
     color:#1418CC;
     bottom: 15%;
-    font-size: 20px;
+    font-size: 30px;
     }
     div{
         width: 100%;
@@ -125,10 +125,12 @@ footer{
         justify-content: center;
     }
     footer{
+        display: flex;
         justify-content: space-between;
         align-items: center;
         position: relative;
         top:10%;
+        right: 10%;
         
         
         margin-top: 15%;
